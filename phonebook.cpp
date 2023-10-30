@@ -410,7 +410,7 @@ int main()
         break;
         default:cout<<"\nNO PROPER INPUT GIVEN.....\n";
     }
-    cout<<"DO YOU WANT TO CONTINUE SEARCHING?????????";
+    cout<<"DO YOU WANT TO CONTINUE SEARCHING???";
     cin>>ans;
 }while(ans=='y');
 
